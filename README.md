@@ -1,21 +1,31 @@
-🚀 AI & Deep Learning Architect | Ali Abd El-Rahman Ahmed Abdallah
-Welcome to my digital lab! I am a Driven AI Engineer dedicated to pushing the boundaries of Machine Learning and Neural Architectures. My mission is to transform complex data into intelligent, disruptive solutions.
+# 🚀 Deep Learning & Computer Vision Portfolio
 
-🔬 Technical Command Center:
-Deep Learning Mastery: Advanced Neural Networks, Computer Vision, and Predictive Modeling.
+This repository contains my journey in mastering Artificial Intelligence, from mathematical foundations to advanced neural network implementations.
 
-Core Technologies: Python (High-level implementation), PyTorch/TensorFlow frameworks.
+---
 
-Architecture & Data: Microsoft Access (Complex Database Design), Excel (Advanced Data Analytics & Insights).
+### 📚 Project Structure
 
-Strategic Innovation: Disruptive Tech Business Models and E-Sports Ecosystem Management.
+#### 1. [Mathematical Foundations](./Math-Basics/)
+Essential math for AI, implemented in Python:
+* **Linear Algebra:** Matrix operations & Tensors.
+* **Calculus:** Gradient calculations & Derivatives.
+* **Statistics:** Data distribution & Normalization.
 
-🛠 Active Mission Log:
-🧠 Neural Systems: Engineering high-performance Deep Learning architectures.
+#### 2. [Neural Networks](./simple_neural_network.py)
+* Implementation of a basic regressor using **TensorFlow**.
+* Understanding the relationship between inputs and weights.
 
-🎮 E-Sports Innovation: Architecting comprehensive management systems for professional gaming academies.
+#### 3. [Computer Vision](./computer_vision_basics.py)
+* Image preprocessing using **OpenCV**.
+* Grayscale conversion and Noise reduction (Blurring).
 
-📈 Strategic Analytics: Leveraging data to drive innovation and competitive advantage.
+---
 
-⚡ Professional Philosophy:
-"In the universe of AI, I don't just build models; I architect the future of intelligence."
+### 🛠 Tech Stack
+- **Language:** Python
+- **Libraries:** NumPy, TensorFlow, OpenCV
+- **Concepts:** Backpropagation, Gradient Descent, Matrix Multiplication
+
+---
+*Created by Ali Abd El-Rahman - AI Engineer*
